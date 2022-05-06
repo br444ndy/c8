@@ -1,0 +1,132 @@
+[{
+    "mes": "Enero",
+    "T. media  (C)": 10.5,
+    "T. min  (C)": 6.5,
+    "T. max (C)": 15.1,
+    "Precipitacion (mm)": 10.3,
+    "Humedad (%)": 74,
+    "Dias Luviosos (dias)": 10,
+    "Horas de Sol (h)": 6.1
+    },
+    {
+
+    "mes": "Febrero",
+    "T. media  (C)": 11,
+    "T. min  (C)": 6.7,
+    "T. max (C)": 15.8,
+    "Precipitacion (mm)": 77,
+    "Humedad (%)": 73,
+    "Dias Luviosos (dias)": 8,
+    "Horas de Sol (h)": 6.1
+    },
+    {
+   
+    "mes": "Marzo",
+    "T. media  (C)": 8.5,
+    "T. min  (C)": 5,
+    "T. max (C)": 12.8,
+    "Precipitacion (mm)": 108,
+    "Humedad (%)": 79,
+    "Dias Luviosos (dias)": 9,
+    "Horas de Sol (h)": 4.8
+    },
+    {
+    
+    "mes": "Abril",
+    "T. media  (C)": 5.4,
+    "T. min  (C)": 2.4,
+    "T. max (C)": 9.2,
+    "Precipitacion (mm)": 132,
+    "Humedad (%)": 85,
+    "Dias Luviosos (dias)": 11,
+    "Horas de Sol (h)": 3.6
+    },
+    {
+   
+    "mes": "Mayo",
+    "T. media  (C)": 2.3,
+    "T. min  (C)": 0,
+    "T. max (C)": 5.4,
+    "Precipitacion (mm)": 161,
+    "Humedad (%)": 90,
+    "Dias Luviosos (dias)": 13,
+    "Horas de Sol (h)": 2.6
+    },
+    {
+   
+    "mes": "Junio",
+    "T. media  (C)": -0.5,
+    "T. min  (C)": -2.7,
+    "T. max (C)": 2.3,
+    "Precipitacion (mm)": 176,
+    "Humedad (%)": 92,
+    "Dias Luviosos (dias)": 13,
+    "Horas de Sol (h)": 2.4
+    },
+    {
+   
+    "mes": "Julio",
+    "T. media  (C)": -1.1,
+    "T. min  (C)": -3.4,
+    "T. max (C)": 1.9,
+    "Precipitacion (mm)": 158,
+    "Humedad (%)": 90,
+    "Dias Luviosos (dias)": 13,
+    "Horas de Sol (h)": 2.7
+    },
+    {
+   
+    "mes": "Agosto",
+    "T. media  (C)": 0.2,
+    "T. min  (C)": -2.3,
+    "T. max (C)": 3.5,
+    "Precipitacion (mm)": 171,
+    "Humedad (%)": 87,
+    "Dias Luviosos (dias)": 13,
+    "Horas de Sol (h)": 3.4
+    },
+    {
+   
+    "mes": "Septiembre",
+    "T. media  (C)": 1.9,
+    "T. min  (C)": -1,
+    "T. max (C)": 5.7,
+    "Precipitacion (mm)": 110,
+    "Humedad (%)": 83,
+    "Dias Luviosos (dias)": 11,
+    "Horas de Sol (h)": 4.1
+    },
+    {
+
+    "mes": "Octubre",
+    "T. media  (C)": 3.9,
+    "T. min  (C)": 0.4,
+    "T. max (C)": 8.2,
+    "Precipitacion (mm)": 134,
+    "Humedad (%)": 80,
+    "Dias Luviosos (dias)": 12,
+    "Horas de Sol (h)": 4.7
+    },
+    {
+   
+    "mes": "Noviembre",
+    "T. media  (C)": 6.3,
+    "T. min  (C)": 2.4,
+    "T. max (C)": 10.8,
+    "Precipitacion (mm)": 133,
+    "Humedad (%)": 77,
+    "Dias Luviosos (dias)": 12,
+    "Horas de Sol (h)": 5
+    },
+    {
+ 
+    "mes": "Diciembre",
+    "T. media  (C)": 9,
+    "T. min  (C)": 5.1,
+    "T. max (C)": 13.5,
+    "Precipitacion (mm)": 126,
+    "Humedad (%)": 74,
+    "Dias Luviosos (dias)": 11,
+    "Horas de Sol (h)": 5.6
+    }]
+    
